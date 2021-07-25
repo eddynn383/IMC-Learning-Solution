@@ -685,7 +685,7 @@ main .panel_progress .panel_pie-container:after {
     border: 10px solid rgb(var(--light));
     position: absolute;
     top: 0;
-    left: 0;
+    left: 0; 
 }
 
 main .panel_progress .panel_pie-container > span {
